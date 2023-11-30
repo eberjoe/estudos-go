@@ -10,7 +10,7 @@ type usuario struct {
 func main() {
 	var eber usuario
 	eber.nome = "Eber"
-	eber.idade = 43
+	eber.idade = 23
 
 	eunice := usuario{"Eunice", 19}
 
